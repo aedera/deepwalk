@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "deepwalk"
 version = "0.1.0"
-description = "Trivial adaption of the original DeepWalk."
+description = "Fork of the original DeepWalk."
 authors = ["Alejandro A. Edera <aedera@sinc.unl.edu.ar>"]
 
 [tool.poetry.dependencies]

@@ -1,12 +1,12 @@
 # DeepWalk
 
-This repo is a simple adaption of the original DeepWalk available here
+This is a fork of the original DeepWalk available here
 
 https://github.com/phanein/deepwalk
 
-to only extract walks from a list of edges. In other words, the optimization
-step used for the original DeepWalk to build graph node embeddings is not
-included.
+Unlike the original DeepWalk, this fork only extracts walks from a list of
+edges, not including the optimization step used for the original DeepWalk to
+build graph node embeddings.
 
 ## Installation
 
