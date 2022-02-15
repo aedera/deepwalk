@@ -10,10 +10,8 @@ included.
 
 ## Installation
 
-To install DeepWalk shared here, your computer simply needs to have installed
-Python 3.6 and Pip.
-
-Use this command to install DeepWalk
+To install the DeepWalk shared here, your computer simply needs to have
+installed Python 3.6 and Pip. If so, use this command
 
 ```bash
 pip install -U "deepwalk @ git+https://github.com/aedera/deepwalk.git"
