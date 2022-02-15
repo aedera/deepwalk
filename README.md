@@ -32,4 +32,4 @@ described in the input file `examples/edges.txt` assuming directed edges (0,
 use 1 to assume directed edges). The last parameter (1234) sets a seed for
 replication.
 
-The above command outputs the walks for the standard output.
+The above command outputs the walks to the standard output.
