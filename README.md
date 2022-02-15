@@ -15,8 +15,8 @@ https://github.com/tmikolov/word2vec
 
 ## Installation
 
-To install the DeepWalk shared here, your computer simply needs to have
-installed Python 3.6 and Pip. If so, use this command
+To install this fork, your computer simply needs to have installed Python 3.6
+and Pip. If so, use this command
 
 ```bash
 pip install -U "deepwalk @ git+https://github.com/aedera/deepwalk.git"
@@ -35,4 +35,4 @@ described in the input file `examples/edges.txt` assuming directed edges (0,
 use 1 to assume undirected edges). The last parameter (1234) sets a seed for
 replication.
 
-The above command outputs the walks to the standard output.
+The above command outputs the walks to standard output.
