@@ -5,8 +5,8 @@ This is a fork of the original DeepWalk available here
 https://github.com/phanein/deepwalk
 
 Unlike the original DeepWalk, this fork only extracts walks from a list of
-edges, not including the optimization step used for the original DeepWalk to
-build graph node embeddings.
+edges, not including the optimization step used to build graph node
+embeddings.
 
 To build node embeddings, you can use any suitable optimizer. For example,
 word2vec:
