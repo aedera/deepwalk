@@ -8,6 +8,11 @@ Unlike the original DeepWalk, this fork only extracts walks from a list of
 edges, not including the optimization step used for the original DeepWalk to
 build graph node embeddings.
 
+To build node embeddings, you can use the any suitable optimizer. For example,
+word2vec:
+
+https://github.com/tmikolov/word2vec
+
 ## Installation
 
 To install the DeepWalk shared here, your computer simply needs to have
