@@ -10,9 +10,6 @@ included.
 
 ## Installation
 
-
-## Installation
-
 To install DeepWalk shared here, your computer simply needs to have installed
 Python 3.6 and Pip.
 
