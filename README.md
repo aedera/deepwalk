@@ -29,7 +29,7 @@ deepwalk examples/edges.txt 0 2 10 1234
 
 This extracts approximately 2 walks of length 10 from each node for the graph
 described in the input file `examples/edges.txt` assuming directed edges (0,
-use 1 to assume directed edges). The last parameter (1234) sets a seed for
+use 1 to assume undirected edges). The last parameter (1234) sets a seed for
 replication.
 
 The above command outputs the walks to the standard output.
